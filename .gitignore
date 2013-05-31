@@ -1,6 +1,6 @@
 # Git Ignore
 *.blend1
 *.blend2
-*.mcsz,
+*.mscz,
 *.dat
 *.db
