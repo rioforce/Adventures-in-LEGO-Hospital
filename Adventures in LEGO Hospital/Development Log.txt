@@ -1,0 +1,47 @@
+Adventures in LEGO Hospital - Development Log
+----------------------------------------------------------------------
+
+4-14-13
+* Corrected Colors on Reflection Map
+* Updated Character Controller to make Platformer style
+* Fixed jump for movement in mid-air
+* Filled in backgrounds of Minifig textures to remove split edge artifacts
+* Modeled Unbrella, Towel, and Radio
+* Reduced a few polys on Minifigure
+
+4-??-13
+* Re-constructed Lighting Setup
+
+4-25-13
+* Re-wrote storyline to be "Adventures in LEGO Hospital"
+
+4-26-13
+* Modeled LEGO Parrot, Stretcher, Siringe, and Cap
+
+5-22-13
+* Textured Parrot, Stretcher. 
+* Worked on new minifigure.
+
+5-23-13
+* Created Menu Scene
+* Added Red and Green Bricks
+* Added Show Cursor script (cursor.py)
+* Added Mouse Follow script (mouse_follow.py)
+
+5-29-13
+* Wrote some more of the story. Planned stuff out.
+
+5-30-13
+* Modeled LEGO Lamp
+* Modeled Main "desk" and Information Brick
+* Made Information Logo
+* Made Hospital Logo
+* Modeled inside of Hospital
+* Textured Hospital Door and Wall
+
+Adventures in LEGO Hospital - TODO
+------------------------------------------------------
+* Look into why Triangle Mesh collison crashes and how to fix it
+* Add double jump
+* Add camera zoom limit
+* Make a new Minifigure (Lower Poly) -Working on it
