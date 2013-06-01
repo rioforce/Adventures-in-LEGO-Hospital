@@ -63,6 +63,9 @@ Adventures in LEGO Hospital - Development Log
 * Fixed minifig rig and UV
 * Added Hat bone in Minifigure
 * Animated Clickit's Intro
+* Deleted animation
+* Made pictures for board in Menu
+* Added pictures to board
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
