@@ -58,6 +58,11 @@ Adventures in LEGO Hospital - Development Log
 * Added custom Mouse Cursor
 * Removed custom mouse cursor
 * Removed "mouse_follow" and "cursor" scripts.
+* Ate pizza
+* Added Logo onto board in Menu
+* Fixed minifig rig and UV
+* Added Hat bone in Minifigure
+* Animated Clickit's Intro
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
