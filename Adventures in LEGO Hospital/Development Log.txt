@@ -39,6 +39,13 @@ Adventures in LEGO Hospital - Development Log
 * Modeled inside of Hospital
 * Textured Hospital Door and Wall
 
+5-31-13
+* Finished Adventures in LEGO hospital Logo
+* Added Hospital Alarm in Menu
+* Added credits Scene
+* Re-worked Minifig legs to have holes in back
+* UV Mapped minifigure
+
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
 * Look into why Triangle Mesh collison crashes and how to fix it
