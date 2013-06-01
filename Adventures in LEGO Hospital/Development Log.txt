@@ -45,6 +45,19 @@ Adventures in LEGO Hospital - Development Log
 * Added credits Scene
 * Re-worked Minifig legs to have holes in back
 * UV Mapped minifigure
+* Lowered polys & UV mapped Cap
+* Made Minifigure materials
+* Appended minifigure to Menu scene
+
+6-1-13
+* Fixed Specular ammount on Minifig and LEGO models
+* Fixed Minifig wrists and wrist bones
+* Corrected Normals on Minifig Leg
+* Added more detail to minifig
+* Changed specular on minifig
+* Added custom Mouse Cursor
+* Removed custom mouse cursor
+* Removed "mouse_follow" and "cursor" scripts.
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
