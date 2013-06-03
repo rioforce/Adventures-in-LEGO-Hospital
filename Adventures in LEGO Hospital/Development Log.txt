@@ -62,7 +62,7 @@ Adventures in LEGO Hospital - Development Log
 * Added Logo onto board in Menu
 * Fixed minifig rig and UV
 * Added Hat bone in Minifigure
-* Animated Clickit's Intro
+* Animated Clickitt's Intro
 * Deleted animation
 * Made pictures for board in Menu
 * Added pictures to board
@@ -70,6 +70,4 @@ Adventures in LEGO Hospital - Development Log
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
 * Look into why Triangle Mesh collison crashes and how to fix it
-* Add double jump
-* Add camera zoom limit
-* Make a new Minifigure (Lower Poly) -Working on it
+* Add character controller
