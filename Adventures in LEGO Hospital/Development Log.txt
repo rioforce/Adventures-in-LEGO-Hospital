@@ -67,7 +67,21 @@ Adventures in LEGO Hospital - Development Log
 * Made pictures for board in Menu
 * Added pictures to board
 
+6-3-13
+* Added material colors to ambulance
+* Added Screenshot script, saves as PNG and uses current date and time, bound to F12 key (added by Triangle717)
+* Changed location of saved screenshots
+* Added Fullscreen mode to Standalone EXE. Game resoloution fits screen.
+
+
+6-4-13
+* Modeled Ambulance steering wheel and added wheel rig
+* Finished Screenshot script
+* Added empty and attached scripts to it
+
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
 * Look into why Triangle Mesh collison crashes and how to fix it
 * Add character controller
+* Remember to copy Blender Python before compiling into Exe
+* Bind screenshot function to Print Screen key, if at all possible

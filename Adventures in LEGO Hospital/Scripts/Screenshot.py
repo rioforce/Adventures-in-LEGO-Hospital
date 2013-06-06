@@ -1,9 +1,17 @@
-import Rasterizer
+"""Screenshot script"""
 
-i = 1
+import bge
+import time
+import os
 
-i += 1
-Rasterizer.makeScreenshot("Hospital_{0}.png".format(str(i).zfill(10)))
-#i += 1
+# (Possible) cross-platform location of user's Pictures folder
+pictures_folder = os.path.join(os.path.expanduser("~"), "Pictures")
 
-#Script from http://blenderartists.org/forum/showthread.php?79654-How-do-I-take-a-game-engine-screenshot&p=725210&viewfull=1#post725210
+# Location of Screenshots folder in user's Pictures folder
+screens = os.path.join(pictures_folder, "Adventures in LEGO Hospital")
+ 
+# Create folder if it does not exist 
+if not os.path.exists(screens): os.mkdir(screens)
+
+# Save image in Adventures in LEGO Hospital folder, use current date and time
+bge.render.makeScreenshot(os.path.join(screens, "LEGO-Hospital_{0}.png".format(time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime()))))
