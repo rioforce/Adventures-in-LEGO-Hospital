@@ -79,6 +79,11 @@ Adventures in LEGO Hospital - Development Log
 * Finished Screenshot script
 * Added empty and attached scripts to it
 
+6-8-13
+* Added new celing so light can come into room better
+* Animated Dr. Clickitt Intro
+* Started animation on Return & Enter's Backstory
+
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
 * Look into why Triangle Mesh collison crashes and how to fix it
