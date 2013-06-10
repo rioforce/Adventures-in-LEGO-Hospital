@@ -77,15 +77,20 @@ Adventures in LEGO Hospital - Development Log
 6-4-13
 * Modeled Ambulance steering wheel and added wheel rig
 * Finished Screenshot script
-* Added empty and attached scripts to it
+* Added multi-scene empty for system scripts
 
 6-8-13
 * Added new celing so light can come into room better
 * Animated Dr. Clickitt Intro
-* Started animation on Return & Enter's Backstory
+* Worked on animation on Return & Enter's Cutscene
+
+6-10-13
+* Added new quit game script (Note to self: Do not click in within Blender...)
+* Fixed fullscreen resoloution issue
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
+* Make fullscreen script not have to be held down to activate
 * Look into why Triangle Mesh collison crashes and how to fix it
 * Add character controller
 * Remember to copy Blender Python before compiling into Exe
