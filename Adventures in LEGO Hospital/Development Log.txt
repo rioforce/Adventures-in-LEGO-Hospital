@@ -1,12 +1,12 @@
 Adventures in LEGO Hospital - Development Log
-----------------------------------------------------------------------
+----------------------------------------------
 
 4-14-13
 * Corrected Colors on Reflection Map
 * Updated Character Controller to make Platformer style
 * Fixed jump for movement in mid-air
 * Filled in backgrounds of Minifig textures to remove split edge artifacts
-* Modeled Unbrella, Towel, and Radio
+* Modeled Umbrella, Towel, and Radio
 * Reduced a few polys on Minifigure
 
 4-??-13
@@ -16,11 +16,11 @@ Adventures in LEGO Hospital - Development Log
 * Re-wrote storyline to be "Adventures in LEGO Hospital"
 
 4-26-13
-* Modeled LEGO Parrot, Stretcher, Siringe, and Cap
+* Modeled LEGO Parrot, Stretcher, Syringe, and Cap
 
 5-22-13
 * Textured Parrot, Stretcher. 
-* Worked on new minifigure.
+* Worked on new Minifigure.
 
 5-23-13
 * Created Menu Scene
@@ -44,23 +44,23 @@ Adventures in LEGO Hospital - Development Log
 * Added Hospital Alarm in Menu
 * Added credits Scene
 * Re-worked Minifig legs to have holes in back
-* UV Mapped minifigure
+* UV Mapped Minifigure
 * Lowered polys & UV mapped Cap
 * Made Minifigure materials
-* Appended minifigure to Menu scene
+* Appended Minifigure to Menu scene
 
 6-1-13
-* Fixed Specular ammount on Minifig and LEGO models
+* Fixed Specular amount on Minifig and LEGO models
 * Fixed Minifig wrists and wrist bones
 * Corrected Normals on Minifig Leg
-* Added more detail to minifig
-* Changed specular on minifig
+* Added more detail to Minifig
+* Changed specular on Minifig
 * Added custom Mouse Cursor
 * Removed custom mouse cursor
-* Removed "mouse_follow" and "cursor" scripts.
+* Removed mouse_follow.py  and cursor.py scripts.
 * Ate pizza
 * Added Logo onto board in Menu
-* Fixed minifig rig and UV
+* Fixed Minifig rig and UV
 * Added Hat bone in Minifigure
 * Animated Clickitt's Intro
 * Deleted animation
@@ -71,7 +71,7 @@ Adventures in LEGO Hospital - Development Log
 * Added material colors to ambulance
 * Added Screenshot script, saves as PNG and uses current date and time, bound to F12 key (added by Triangle717)
 * Changed location of saved screenshots
-* Added Fullscreen mode to Standalone EXE. Game resoloution fits screen.
+* Added Fullscreen mode to Standalone EXE. Game resolution fits screen.
 
 
 6-4-13
@@ -80,18 +80,27 @@ Adventures in LEGO Hospital - Development Log
 * Added multi-scene empty for system scripts
 
 6-8-13
-* Added new celing so light can come into room better
+* Added new ceiling so light can come into room better
 * Animated Dr. Clickitt Intro
 * Worked on animation on Return & Enter's Cutscene
 
 6-10-13
 * Added new quit game script (Note to self: Do not click in within Blender...)
-* Fixed fullscreen resoloution issue
+* Fixed fullscreen resolution issue
+* Updated windowed mode game resolution
+
+6-14-13
+* Finished Fullscreen script (Scripts/Fullscreen.py)
+* Created Windowed mode script (Scripts/Windowed.py)
+* Assigned F4 key to fullscreen toggle
+* Assigned F5 key to windowed mode toggle
+* Assigned Quit.py to Escape key (only during development)
+* Created Scripts/Overwrite.py as a "Do nothing" function
+
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
-* Make fullscreen script not have to be held down to activate
-* Look into why Triangle Mesh collison crashes and how to fix it
+* Look into why Triangle Mesh collision crashes and how to fix it
 * Add character controller
-* Remember to copy Blender Python before compiling into Exe
-* Bind screenshot function to Print Screen key, if at all possible
+* Remember to copy Blender's Python files and DLLs when compiling into Exe
+* Remember to set Escape key to use Scripts/Overwrite.py before release
