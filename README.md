@@ -1,4 +1,4 @@
-![Adventures in LEGO Hospital](https://raw.github.com/rioforce/Adventures-in-LEGO-Hospital/master/Adventures%20in%20LEGO%20Hospital/Media/Logo/Adventures%20in%20LEGO%20Hospital%20Logo.png)
+![Adventures in LEGO Hospital](https://raw.github.com/rioforce/Adventures-in-LEGO-Hospital/master/Media/Logo/Adventures%20in%20LEGO%20Hospital%20Logo.png)
 ===========================
 
 My name: Clickitt. 
