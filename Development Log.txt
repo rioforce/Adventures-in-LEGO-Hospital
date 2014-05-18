@@ -97,10 +97,27 @@ Adventures in LEGO Hospital - Development Log
 * Assigned Quit.py to Escape key (only during development)
 * Created Scripts/Overwrite.py as a "Do nothing" function
 
+5-14-14
+* Wow, has it been almost a year already? Well, better late than never! Started working on the game again.
+* Drew concept for levels (see Media/Concept Art) and planned out entire game.
+
+5-15-14
+* Re-arranging files
+* Switching to logo without the LEGO logo in it
+* Deleting old 3rd Person Controller file
+
+5-16-14
+* Built new ambulance and hospital desk in LeoCad and LEGO Digital Designer
+* Got new Reflection map.
+* Put Ambulance into Blender and cleaned it up
+
+5-17-14
+* Baked shading, added rig (which has automatic wheel rotations!), finished materials on ambulance
+
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
-* Look into why Triangle Mesh collision crashes and how to fix it
+* Make all meshes have lower-poly collision meshes to prevent lots of lag
 * Add character controller
 * Remember to copy Blender's Python files and DLLs when compiling into Exe
 * Remember to set Escape key to use Scripts/Overwrite.py before release

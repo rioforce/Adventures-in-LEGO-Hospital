@@ -1,4 +1,4 @@
-"Adventures in LEGO Hospital" Storyline
+﻿"Adventures in LEGO Hospital" Storyline
 
 Based on Dr. Clickitt's line in LEGO Island: "We're so busy, we should have our own title, 'Adventures in the LEGO Hospital!'"
 
@@ -32,8 +32,13 @@ Enter's head falls off in beginning cutscene as a hint. On level 2, if you click
 
 Elevator scene:
 
-Shows inside of elevator with four buttons: roof, level 2, level 1, basement. Click basement and it shows a video of Nick swimming.
+Shows inside of elevator with four buttons: roof, level 2, level 1, basement. Click basement and it shows a video of aliens on mars getting neon colored lava from craters and putting them into medicine bottles on a shelf.
 
 Boss:
 
 Common cold. Clickitt has shot thingy and jabs the cold and it is gone.
+
+
+Story and Gameplay
+------------------
+In the begining cutscene, Enter knocks his head off and it bounces around the lobby and into the elevator. The player plays as Dr. Clickitt in this 2.5D platform game. He travels through the floors of the hospital, works his way out of messes, and finds Enter's head. He goes to the roof, uses the head as a key into this door, and cures the common cold (yes, the cold is no longer sick, because he cured it. ha ha.)
