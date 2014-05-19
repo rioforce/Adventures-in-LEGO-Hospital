@@ -114,6 +114,13 @@ Adventures in LEGO Hospital - Development Log
 5-17-14
 * Baked shading, added rig (which has automatic wheel rotations!), finished materials on ambulance
 
+5-18-14
+* Imported Hospital Desk into Blender and began cleanup
+
+5-19-14
+* Finished Hospital desk model and materials.
+* Added lighting to Hospital desk scene (see Screenshots folder)
+
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
