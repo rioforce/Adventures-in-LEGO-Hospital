@@ -121,6 +121,9 @@ Adventures in LEGO Hospital - Development Log
 * Finished Hospital desk model and materials.
 * Added lighting to Hospital desk scene (see Screenshots folder)
 
+5-20-14
+* Added new minifigure model
+
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
