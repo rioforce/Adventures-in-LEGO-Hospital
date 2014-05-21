@@ -122,7 +122,8 @@ Adventures in LEGO Hospital - Development Log
 * Added lighting to Hospital desk scene (see Screenshots folder)
 
 5-20-14
-* Added new minifigure model
+* Added new minifigure model (Rigged too)
+* Re-Created textures for Enter + Return and Dr. Clickitt. Made test renders (See Media/Renders)
 
 
 Adventures in LEGO Hospital - TODO
