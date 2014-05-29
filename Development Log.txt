@@ -125,6 +125,15 @@ Adventures in LEGO Hospital - Development Log
 * Added new minifigure model (Rigged too)
 * Re-Created textures for Enter + Return and Dr. Clickitt. Made test renders (See Media/Renders)
 
+5-21-14
+* Finished minifigure rig
+
+5-28-14
+* Started Character Controller
+
+5-29-14
+* Worked on Character Controller more
+* Made collision mesh for character
 
 Adventures in LEGO Hospital - TODO
 ------------------------------------------------------
