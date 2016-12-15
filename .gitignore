@@ -1,8 +1,8 @@
 # Git Ignore
-*.blend1
-*.blend2
-*.mscz,
+# *.blend1
+# *.blend2
+# *.mscz,
 *.dat
 *.db
-*.acd
-stuff/
+# *.acd
+# stuff/
